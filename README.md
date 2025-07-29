@@ -1,10 +1,13 @@
 # classification-project_ML
-Classification Project on Mobile Price Range Prediction
-Mobile Price Range Prediction
-Project Overview:-
+Classification Project on Mobile Price Range Prediction.  
+
+Project Name :- Mobile Price Range Prediction.  
+
+Project Overview:-  
+
 This project predicts the price range category of mobile phones based on their technical specifications using machine learning classification techniques. It helps customers and sellers estimate the pricing tier (e.g., low, medium, high, premium) of a mobile device from features like RAM, battery power, camera resolution, and more.
 
-Dataset
+Dataset:-
 * The dataset consists of various mobile phone features including:
 
 * Battery power
@@ -21,7 +24,7 @@ Dataset
 
 The target variable is the price_range with categories representing different price levels.
 
-Technologies Used
+Technologies Used:-
 1. Python
 
 2. Pandas & NumPy (Data manipulation)
@@ -30,7 +33,8 @@ Technologies Used
 
 4. Scikit-learn (Machine learning algorithms)
 
-Project Workflow
+Project Workflow:-  
+
 1.Data Preprocessing: Cleaning and preparing the dataset for modeling.
 
 2.Exploratory Data Analysis (EDA): Visualizing and understanding the feature distributions and relationships.
@@ -41,7 +45,8 @@ Project Workflow
 
 5.Model Evaluation: Assessing model accuracy, precision, recall, and fine-tuning hyperparameters.
 
-Results
+Results:-  
+
 1.Achieved an accuracy of 97% on the test dataset.
 
 2.Logistic Regression proved to be the most effective in predicting price ranges.

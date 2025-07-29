@@ -60,3 +60,16 @@ How to run:
 * Install the required packages (check requirements.txt)
 
 * Run notebook.ipynb or main.py to train and test the model
+
+
+Future Work:-  
+
+* Explore advanced models like XGBoost or neural networks.
+
+* Implement feature scaling and dimensionality reduction.
+
+* Deploy the model using a web app for user interaction.
+
+License:-  
+
+This project is open source and available under the MIT License.
